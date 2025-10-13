@@ -4,8 +4,7 @@
     "forced": true,
     "changelog": [
         "- Removed auth.",
-        "Add schedule sports.",
+        "- Add schedule sports.",
         "- Improved providers."
     ]
 }
-
